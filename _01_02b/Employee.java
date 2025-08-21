@@ -34,6 +34,7 @@ public class Employee {
 
     // Print out the sum of the variables called firstBonus, secondBonus and
     // thirdBonus.
+    //hello
 
   }
 
